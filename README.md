@@ -38,6 +38,7 @@ The results are saved in a text file and a bar chart image.
 - **Stocks 30% Below 52-Week High**: Lists stocks trading significantly below their 52-week high.
 - **Stocks 20% Above 52-Week Low**: Lists stocks trading significantly above their 52-week low.
 - **Top 5 Performers in Last 30 Days**: Lists stocks with the highest percentage change over the last 30 days.
+- **Bar Chart**: A bar chart visualizing the top 5 gainers and losers is saved as `gainers_losers_chart.png`.
 
 ## License
 This project is licensed under the MIT License.
