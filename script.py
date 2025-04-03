@@ -41,7 +41,7 @@ def plot_gainers_losers(gainers, losers):
     plt.xlabel("Stocks")
     plt.ylabel("% Change")
     plt.title("Top 5 Gainers and Losers of the Day")
-    plt.savefig("gainers_losers_chart.png")
+    plt.savefig("output/gainers_losers_chart.png")
     plt.show()
 
 if __name__ == "__main__":
@@ -59,7 +59,7 @@ if __name__ == "__main__":
         "Top 5 Performers in Last 30 Days": top_performers[['symbol', 'perChange30d']].to_string(index=False)
     }
     
-    with open("nifty50_analysis.txt", "w") as file:
+    with open("output/nifty50_analysis.txt", "w") as file:
         for key, value in output_data.items():
             file.write(f"{key}:\n{value}\n\n")
     
