@@ -41,8 +41,6 @@ def plot_gainers_losers(gainers, losers):
     plt.xlabel("Stocks")
     plt.ylabel("% Change")
     plt.title("Top 5 Gainers and Losers of the Day")
-    plt.xticks(rotation=45, ha='right')  # Rotate labels for better readability
-    plt.tight_layout()  # Adjust layout to prevent clipping
     plt.savefig("output/gainers_losers_chart.png")
     plt.show()
 

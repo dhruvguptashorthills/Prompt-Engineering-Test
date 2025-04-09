@@ -1,0 +1,40 @@
+Top 5 Gainers:
+    symbol  pChange
+ NESTLEIND     2.88
+HINDUNILVR     2.33
+HEROMOTOCO     1.77
+     TITAN     1.51
+ POWERGRID     1.47
+
+Top 5 Losers:
+symbol  pChange
+ TECHM    -2.25
+    LT    -2.38
+  SBIN    -2.38
+ TRENT    -3.13
+ WIPRO    -3.72
+
+Stocks 30% Below 52-Week High:
+    symbol  below_52_high
+HEROMOTOCO      41.768261
+BAJAJ-AUTO      40.534680
+TATAMOTORS      50.089059
+INDUSINDBK      56.963872
+ADANIPORTS      30.458246
+
+Stocks 20% Above 52-Week Low:
+    symbol  above_52_low
+TATACONSUM     22.811190
+APOLLOHOSP     20.072191
+ EICHERMOT     31.800279
+       M&M     27.404664
+ULTRACEMCO     22.450811
+
+Top 5 Performers in Last 30 Days:
+    symbol  perChange30d
+TATACONSUM         11.19
+ POWERGRID          9.74
+  HDFCLIFE          9.68
+APOLLOHOSP          8.68
+    GRASIM          7.59
+
